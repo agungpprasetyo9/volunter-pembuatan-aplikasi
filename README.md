@@ -3,7 +3,7 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada berkas ini ya.<br>
 
 Silakan gunakan format berikut:<br>
-*\ Nama, [LinkedIn/GitHub/Website](Alamat URL).**  
+**\* Nama, [LinkedIn/GitHub/Website](Alamat URL).**  
 
 Berikut adalah daftar Volunter yang diterima:
 * Wildan Syaifudin Ahmad, [SanCross354](https://github.com/SanCross354).
