@@ -7,3 +7,4 @@ Silakan gunakan format berikut:<br>
 
 Berikut adalah daftar Volunter yang diterima:
 * Wildan Syaifudin Ahmad, [SanCross354](https://github.com/SanCross354).
+* Agung Prasetyo Abdjul, [agungpprasetyo9](https://github.com/agungpprasetyo9).
